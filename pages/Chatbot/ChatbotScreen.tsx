@@ -16,7 +16,7 @@ import Footer from '../../components/Footer';
 
 type Message = { id: string; text: string; from: 'user' | 'bot' };
 
-const API_KEY = 'API_KEY_HERE';
+const API_KEY = 'API';
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent?key=${API_KEY}`;
 
 const SYSTEM_PROMPT = `

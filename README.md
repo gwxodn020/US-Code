@@ -36,13 +36,11 @@
     │   ├── HomeScreen.tsx          # 상품 목록/검색/상세/결제 연결
     │   ├── ProductUploadScreen.tsx # 판매자 상품 등록 (이미지, 입력폼)
     │   ├── OrderListScreen.tsx     # 판매자 주문 관리/수락/환불
-    │   ├── LoginScreen.tsx         # 로그인/인증, 토큰/권한 저장
+    │   ├── ChatBotScreen.tsx       # Gemini를 활용한 상담(앱 관련)
+    │   ├── LoginScreen.tsx         # 로그인/인증 토큰/권한 저장
     │   └── SignUpScreen.tsx        # 회원가입
     ├── Pay/
     │   └── PaymentScreen.tsx       # 결제(주문 생성, 완료 표시)
-    ├── styles/                     # (선택) 각 화면별 스타일 분리
-    ├── utils/                      # (선택) API, 공통 유틸
-    │   └── api.ts                  # fetch 등 서버통신 함수
 ```
 
 ---
@@ -69,6 +67,9 @@
 `PaymentScreen.tsx`
 결제/주문 생성 결제 완료 화면
 
+`ChatBotScreen.tsx`
+gemini를 사용하여 앱 사용시 궁금한것을 답변해주는 화면
+
 ---
 
 ## API 사용
@@ -84,4 +85,11 @@
 
 + 주문 생성: POST /api/orders (구매 시)
 
+## 이미지
 
+### 구매자  
+
+<div align="center"> <img src="./assets/app/4.jpg" width="180"/> <img src="./assets/app/5.jpg" width="180"/> <img src="./assets/app/8.jpg" width="180"/> <img src="./assets/app/1.jpg" width="180"/> <img src="./assets/app/2.jpg" width="180"/> </div>
+### 판매자  
+
+<div align="center"> <img src="./assets/app/4.jpg" width="180"/> <img src="./assets/app/5.jpg" width="180"/> <img src="./assets/app/9.jpg" width="180"/> <img src="./assets/app/7.jpg" width="180"/> <img src="./assets/app/3.jpg" width="180"/> <img src="./assets/app/5.jpg" width="180"/> </div>
