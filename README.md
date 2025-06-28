@@ -93,4 +93,4 @@ gemini를 사용하여 앱 사용시 궁금한것을 답변해주는 화면
 
 ### 판매자  
 
-<div align="center"> <img src="./assets/app/4.jpg" width="140"/> <img src="./assets/app/5.jpg" width="140"/> <img src="./assets/app/9.jpg" width="140"/> <img src="./assets/app/7.jpg" width="140"/> <img src="./assets/app/3.jpg" width="140"/> <img src="./assets/app/5.jpg" width="140"/> </div>
+<div align="left"> <img src="./assets/app/4.jpg" width="140"/> <img src="./assets/app/5.jpg" width="140"/> <img src="./assets/app/9.jpg" width="140"/> <img src="./assets/app/7.jpg" width="140"/> <img src="./assets/app/3.jpg" width="140"/> <img src="./assets/app/5.jpg" width="140"/> </div>
