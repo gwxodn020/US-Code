@@ -89,7 +89,7 @@ gemini를 사용하여 앱 사용시 궁금한것을 답변해주는 화면
 
 ### 구매자  
 
-<div align="left"> <img src="./assets/app/4.jpg" width="140"/> <img src="./assets/app/5.jpg" width="140"/> <img src="./assets/app/8.jpg" width="140"/> <img src="./assets/app/1.jpg" width="140"/> <img src="./assets/app/2.jpg" width="140"/> </div>
+<div align="left"> <img src="./assets/app/4.jpg" width="140"/> <img src="./assets/app/5.jpg" width="140"/> <img src="./assets/app/8.jpg" width="140"/> <img src="./assets/app/image0.jpg" width="140"/><img src="./assets/app/1.jpg" width="140"/> <img src="./assets/app/2.jpg" width="140"/> </div>
 
 ### 판매자  
 
